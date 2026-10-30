@@ -87,8 +87,8 @@ topics:
     slug: taishan-x8
     topicId: 1436335
     pinned: data/pinned/taishan-x8.md
-    botPinnedId: 1676335
-    contentHash: 1a32c6365465e3c2966f504e586fb9436b6bc4538ba78db012bd473c52e185f7
+    botPinnedId: 1683214
+    contentHash: a8dc9f7dca724eacc5c861a0b02f5bc4c4ffd3f36b7381756f9f4452b71bb993
   - title: Passion
     slug: passion
     topicId: 72117
@@ -207,4 +207,4 @@ topics:
         - kz
       - - encars
     botPinnedId: 1514528
-    contentHash: bbf0de1ef4a94fbd2741a53688d4879327be8feaf013db13cf3fde8c9fe0d942
+    contentHash: 4c1d5193c755924364704d9988da7624756745a73e2064e2a07c7ba7ef664d1e
