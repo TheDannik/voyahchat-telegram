@@ -26,4 +26,4 @@
 [t.me/voyahchat/1101631/1663464](https://t.me/voyahchat/1101631/1663464)
 
 **Порядок действий на шиномонтаже**
-[t.me/voyahchat/1101631/1688372] (https://t.me/voyahchat/1101631/1688372)
+[t.me/voyahchat/1101631/1688372](https://t.me/voyahchat/1101631/1688372)
